@@ -3,6 +3,7 @@
 # Hi there, I'm Mohammad Hossein (MHgh0st) 👋
 ### Full-Stack Software Engineer & Process Intelligence Specialist
 
+[![Website](https://img.shields.io/badge/Website-mhghost.ir-6366f1?style=flat-square&logo=safari&logoColor=white)](https://mhghost.ir)
 [![GitHub followers](https://img.shields.io/github/followers/MHgh0st?label=Followers&style=flat-square&color=6366f1)](https://github.com/MHgh0st)
 [![Email](https://img.shields.io/badge/Email-mhgh0st.982%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mhgh0st.982@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
@@ -123,5 +124,5 @@ I am a **Full-Stack Software Engineer** with a passion for high-performance syst
 <div align="center">
   <br>
   <p><i>"Quality is not an act, it is a habit." — Building reliable, blazingly fast software one commit at a time.</i></p>
-  <sub>Designed with care by <a href="https://github.com/MHgh0st">Mohammad Hossein (MHgh0st)</a></sub>
+  <sub>Portfolio & Articles: <a href="https://mhghost.ir"><b>mhghost.ir</b></a> • Designed with care by <a href="https://github.com/MHgh0st">Mohammad Hossein (MHgh0st)</a></sub>
 </div>
